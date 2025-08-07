@@ -114,8 +114,9 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash 
 
 **3. Clone Project**
 ```bash
-git clone https://github.com/deadlineTech/music
-cd music
+git clone https://github.com/GhosttBatt/AJ-X2-Death && cd AJ-X2-Death
+```
+```
 pip3 install -U -r requirements.txt
 ```
 
