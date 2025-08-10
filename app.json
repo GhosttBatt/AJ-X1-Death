@@ -1,5 +1,5 @@
 {
-    "name": "ajx2muzic",
+    "name": "ajx1muzic",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://files.catbox.moe/lxn8yz.jpg",
     "keywords": [
@@ -24,7 +24,7 @@
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "8379997770:AAEZL6q-cpX5NNZVuRob2s9M0xrZtXnYUA0",
+      "value": "8209706073:AAH8stU0NeX1IoqTdfAzfVTBQVOzDU5nHDc",
       "required": true
     },
     "OWNER_ID": {
@@ -34,7 +34,7 @@
     },
     "STRING_SESSION": {
       "description": "A Pyrogram session string for the user account",
-      "value": "BQE_0DUAf--CZbwj_ewSGiOR1cZ4ewZFFV3BpTXm5p9xFMDscKDoqIVxieJuy8eAAklsOkU_hhLh8X6r6i0XginTna7pohYa3dmkFXhqMPp3tKUtxbkW7qK1Z4W2Y3YhYiHbPmECidbQFPI82gFIyFvAiwb8aS33M-rX8etKPImSASPTzvbZsEo8j0xdsKdWNfHF2-y6SjwYysOOGrEgomeGDRXXY0We4YS4AH9SbUKFDL_sjveg5wKMeAXUu2NCGsl7xWAcL6N-inUpiMmHnJTDDw_SkQZdM5UNskBRo9bTKXahfQrP2quBxmR1WtWPjSnVcgSYCsWdVb5wtHpLJD3lPUvTSgAAAAH5I7cOAA",
+      "value": "BQGP2BoASSaaVOD0OyvGD4Gs4iAjQXoMoRrFZAKHYzdAnArwiWvPEhgQ5G5jro5_lIfr9OgINxOamQGi8zNzNsvwWHJQPLVK_H9rmIzQE439QUdKgKcbNml_bf5xfZqWidfjPTLg0DsT3W5MqhdU0mySOJRoj5v3a2siEQ-jEPOqiL7FlOtbTeXS69n5bpTaMfT0AN1CnZLSHuP931Zn0hdnn13qve9oiRYFFN_ZPD_HPmhil7An0GAqb5T1ktBzTzT5gAY4D4hG2jsqM-M2SE4OirL5JgiPNkkYBRTdB7y1dxwLXjxXMBh8l1HE7UweOmrv1mTXfHTXf75CfqqFg91Oo80EBgAAAAHeMccZAA",
       "required": true
     },
       "HEROKU_API_KEY": {
